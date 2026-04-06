@@ -37,11 +37,11 @@ Project ini menggunakan Docker Compose untuk menjalankan WordPress CMS dengan My
 
 ### 🔹 WordPress Dashboard
 
-![WordPress Dashboard](WordPress%20Dashboard.PNG)
+![WordPress Dashboard](WordPress%20Dashboard.png)
 
 ### 🔹 Docker Container Running
 
-![Docker Dashboard](Docker%20Dashboard.PNG)
+![Docker Dashboard](Docker%20Dashboard.png)
 
 ---
 
